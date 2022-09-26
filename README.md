@@ -8,3 +8,4 @@ Run the following commend to connect db:</p>
 <p>to see the webpage implementation.
 The whole webpage looks like:</p>
 <img width="1415" alt="Screen Shot 2022-09-26 at 3 08 44 PM" src="https://user-images.githubusercontent.com/105902062/192389673-f9251d23-e12f-47a5-ad86-053c02dee407.png">
+<p>At here you can post blog, edit blog, and delete blog as you like! Enjoy playing around with it :) </p>
